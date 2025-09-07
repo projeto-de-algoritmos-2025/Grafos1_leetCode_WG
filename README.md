@@ -28,18 +28,21 @@ Principais funcionalidades:
 
 ![Programação do curso](./imgs/questao_1.png)
 
+
 ---
 
 #### Questão 2
 
 ![Execução de Algoritmo](./imgs/questao_2.png)
 
+**Explicação da Resolução:** Foi utilizado dois vetores auxiliares para marcação de quem são filhos e quem são pais dentro das arestas passadas, com isso seria possível verificar se algum filho estava apontando para algum pai (Ciclo) ou se algum filho estava recebendo um segundo pai (Quebra da árvore).
 ---
 
 #### Questão 3
 
 ![Resultado de Caminho Mínimo](./imgs/questao_3.png)
 
+**Explicação da Resolução:** Para esta questão foi utilizado uma lógica de matriz de adjacencia que guardava todas as dependências fornecidas. Com isso foi desenvolvido um modelo de DFS para percorrer a matriz com ajuda de um vetor de visitados, para analisar se em algum momento as dependências de cursos criavam um ciclo.
 ---
 
 ## Instalação

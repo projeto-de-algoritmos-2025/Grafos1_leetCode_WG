@@ -28,7 +28,9 @@ Principais funcionalidades:
 
 ![Programação do curso](./imgs/questao_1.png)
 
+#### Questão 1 no LeetCode
 
+![Programação do curso](./imgs/questao_1_resp.png)
 ---
 
 #### Questão 2
